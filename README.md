@@ -109,19 +109,6 @@ This dashboard helps businesses:
 The Power BI dashboard provides interactive visualizations and reports that help stakeholders monitor and optimize supply chain operations effectively.
 
 ---
-
-# Dashboard Screenshots
-
-(Add dashboard screenshots here)
-
-Example:
-
-![Dashboard](Images/dashboard1.png)
-
-![Dashboard](Images/dashboard2.png)
-
----
-
 # Project Files
 
 - Samsung Supply Chain & Logistics Power BI Dashboard.pbix
