@@ -128,9 +128,3 @@ Example:
 - CSV Datasets
 - Dashboard Images
 - README.md
-
----
-
-# Author
-
-Ayush Chandra Shivhare
